@@ -1,0 +1,6 @@
+Ths data is about tuberculosis in different patient groups (this table codes information about age and sex in columns).
+The file source is: https://github.com/KAIR-ISZ/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets/tb.csv
+
+The first column contains iso2 indicator of every country
+The second column contains a year that data came from.
+All other columns inform us about age and sex of new patients with tuberculosis. For example 'new_sp_m3544' informs us how many cases where in the group of males between 35 and 44 years old, and  'new_sp_f65' informs us how many cases where in the group of females at least 65 years old.
